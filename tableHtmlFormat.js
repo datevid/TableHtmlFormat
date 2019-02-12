@@ -34,6 +34,9 @@ var data = [
   }
 ];
 
+/*
+inspirado en https://bit.ly/2DAwSZW
+*/
 class TableHtmlFormat {
     constructor(elementIdRender, dataTable,nameHeaderCustom) {
         this.elementIdRender = elementIdRender; //elementIdRender donde se dibujará la tabla
